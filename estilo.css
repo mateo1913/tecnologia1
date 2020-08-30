@@ -1,0 +1,210 @@
+body
+{
+	background-color: #616A6B;
+}
+
+.nom
+{
+	font-family: Cooper Black;
+}
+
+.ft
+{
+	position: relative;
+	top: 180px;
+	background: url(imagen1.png);
+	height: 150px;
+	width: 138px;
+	background-repeat: no-repeat;
+	color: #616A6B;
+	font-family: arial;
+	left: 400px;
+}
+
+.ft:hover
+{
+	position: relative;
+	top: 180px;
+	background: url(imagen1.png);
+	height: 150px;
+	width: 138px;
+	background-repeat: no-repeat;
+	font-family: arial;
+	color: #3E423B;
+	left:  400px;
+}
+
+.letra1
+{
+	position: relative;
+	left: -200px;
+}
+
+.fy
+{
+    position: relative;
+	top: 8px;
+    background: url(imagen2.png);
+	height: 150px;
+	width: 139px;
+	background-repeat: no-repeat;
+	color: #616A6B;
+	font-family: arial;
+	left: 538px;	
+}
+
+.fy:hover
+{
+   	position: relative;
+	top: 8px;
+	background: url(imagen2.png);
+	height: 150px;
+	width: 139px;
+	background-repeat: no-repeat;
+	font-family: arial;
+	color: #3E423B;
+	left: 538px;
+
+}
+
+.letra2
+{
+    position: relative;
+ 	left: 20px;
+ 	top: -200px;	
+}
+
+.fu
+{
+	position: relative;
+	top: -164px;
+    background: url(imagen3.png);
+	height: 150px;
+	width: 139px;
+	background-repeat: no-repeat;
+	color: #616A6B;
+	font-family: arial;
+	left: 677px;
+}
+
+.fu:hover
+{
+	position: relative;
+	top: -164px;
+	background: url(imagen3.png);
+	height: 150px;
+	width: 139px;
+	background-repeat: no-repeat;
+	font-family: arial;
+	color: #3E423B;
+	left: 677px;
+}
+
+.letra3
+{
+    position: relative;
+ 	left: 200px;
+ 	top: -20px;
+}
+
+.fi
+{
+    position: relative;
+	top: -198px;
+    background: url(imagen4.png);
+	height: 150px;
+	width: 139px;
+	background-repeat: no-repeat;
+	color: #616A6B;
+	font-family: arial;
+	left: 400px;	
+}
+
+.fi:hover
+{
+	position: relative;
+	top: -198px;
+	background: url(imagen4.png);
+	height: 150px;
+	width: 139px;
+	background-repeat: no-repeat;
+	font-family: arial;
+	color: #3E423B;
+	left: 400px;
+
+}
+
+.letra4
+{
+	 position: relative;
+ 	 left: -200px;
+ 	 top: 20px;
+}
+
+.fo
+{
+	position: relative;
+	top: -368px;
+    background: url(imagen5.png);
+	height: 150px;
+	width: 139px;
+	background-repeat: no-repeat;
+	color: #616A6B;
+	font-family: arial;
+	left: 538px;
+}
+
+.fo:hover
+{
+	position: relative;
+	top: -368px;
+    background: url(imagen5.png);
+	height: 150px;
+	width: 139px;
+	background-repeat: no-repeat;
+	color: #3E423B;
+	font-family: arial;
+	left: 538px;
+}
+
+.letra5
+{
+	 position: relative;
+ 	left: 20px;
+ 	top: 140px;
+}
+
+.fp
+{
+    position: relative;
+	top: -538px;
+    background: url(imagen6.png);
+	height: 160px;
+	width: 138px;
+	background-repeat: no-repeat;
+	color: #616A6B;
+	font-family: arial;
+	left: 678px;
+
+}
+
+.fp:hover
+{
+	position: relative;
+	top: -538px;
+    background: url(imagen6.png);
+	height: 160px;
+	width: 138px;
+	background-repeat: no-repeat;
+	color: #3E423B;
+	font-family: arial;
+	left: 678px;
+
+}
+
+.letra6
+{
+	position: relative;
+	left: 200px;
+
+}
